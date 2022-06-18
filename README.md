@@ -2,7 +2,7 @@
 
 * python -m venv env
 
-* ./env/Scripts/activate
+* For Windows user:-> ./env/Scripts/activate 
 
 * pip install -r requirements.txt
 
